@@ -26,10 +26,10 @@ Install the libraries and the dataset.
 ```sh
 pip install -q git+https://github.com/tensorflow/examples.git
 ```
-
 ```sh
-import tensorflow as tf
+pip install tensorflow
 ```
+
 
 ## Model
 
